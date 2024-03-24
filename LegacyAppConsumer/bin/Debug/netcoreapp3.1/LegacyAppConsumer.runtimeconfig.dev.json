@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/pgago/.dotnet/store/|arch|/|tfm|",
+      "/Users/pgago/.nuget/packages"
+    ]
+  }
+}
