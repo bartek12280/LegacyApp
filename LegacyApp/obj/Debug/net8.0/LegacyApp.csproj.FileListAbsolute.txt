@@ -10,3 +10,15 @@
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\bin\Debug\net8.0\LegacyApp.deps.json
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\bin\Debug\net8.0\LegacyApp.dll
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\bin\Debug\net8.0\LegacyApp.pdb
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\obj\Debug\net8.0\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfoInputs.cache
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfo.cs
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\obj\Debug\net8.0\LegacyApp.csproj.CoreCompileInputs.cache
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\obj\Debug\net8.0\LegacyApp.sourcelink.json
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\obj\Debug\net8.0\LegacyApp.dll
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\obj\Debug\net8.0\refint\LegacyApp.dll
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\obj\Debug\net8.0\LegacyApp.pdb
+C:\Users\barte\RiderProjects\app\LegacyApp\LegacyApp\obj\Debug\net8.0\ref\LegacyApp.dll

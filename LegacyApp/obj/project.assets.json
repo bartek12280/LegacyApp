@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barte\\Downloads\\zadanie\\LegacyApp\\LegacyApp.csproj",
+      "projectUniqueName": "C:\\Users\\barte\\RiderProjects\\app\\LegacyApp\\LegacyApp\\LegacyApp.csproj",
       "projectName": "LegacyApp",
-      "projectPath": "C:\\Users\\barte\\Downloads\\zadanie\\LegacyApp\\LegacyApp.csproj",
+      "projectPath": "C:\\Users\\barte\\RiderProjects\\app\\LegacyApp\\LegacyApp\\LegacyApp.csproj",
       "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barte\\Downloads\\zadanie\\LegacyApp\\obj\\",
+      "outputPath": "C:\\Users\\barte\\RiderProjects\\app\\LegacyApp\\LegacyApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\barte\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

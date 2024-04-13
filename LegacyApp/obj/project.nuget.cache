@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYrBp/cQYfZv05BjW64GoIKihBve4jVGimyxwf/0GXjwkmFBC5tjdugkGuT4bembEhaQ3pb5oDOrSTlQsnQYEQ==",
+  "dgSpecHash": "Fr1XtYINy9AWIizAwTsfnlXupYi+As1hbhwNKdIYL09VjENtHn9h/V22CEOeD2+Wm91re7NyLd4rt3cu2RWJww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\barte\\Downloads\\zadanie\\LegacyApp\\LegacyApp.csproj",
+  "projectFilePath": "C:\\Users\\barte\\RiderProjects\\app\\LegacyApp\\LegacyApp\\LegacyApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
